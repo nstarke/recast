@@ -41,7 +41,7 @@
     "source-map": "~0.6.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.0",
+    "@babel/core": "^7.4.3",
     "@babel/parser": "^7.4.2",
     "@babel/preset-env": "^7.4.2",
     "@types/esprima": "^4.0.2",
